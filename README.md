@@ -60,4 +60,73 @@ Feel free to call me in one of these socials:
 <div align="left">
     <a href="https://t.me/Dont_Be_Nothing"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="https://github.com/nothingx-x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    </br>
+    </br>
+    <p>
+    <b>Language:</b>
+      Persian (Native), English (Not bad)
+    </p>
 </div>
+
+## My Daily Life
+```cpp
+#include <iostream>
+
+enum class Status {
+    LEARNING,
+    CODING,
+    FIXING,
+    PUBLISHING
+};
+
+void learn(Status &status) {
+    status = Status::LEARNING;
+    std::cout << "Learning..\n";
+}
+
+void code(Status &status) {
+    status = Status::CODING;
+    std::cout << "Coding..\n";
+}
+
+void fix(Status &status) {
+  status = Status::FIXING;
+  std::cout << "Fixing..\n";
+}
+
+
+void publish(Status &status) {
+  status = Status::PUBLISHING;
+  std::cout << "Publishing..\n";
+}
+
+bool haveTime(const Status &status) {
+  return status == Status::PUBLISHING;
+}
+
+void checkTelegram() {
+  std::cout << "1 unread message..\n";
+}
+
+int main() {
+    Status status = Status::LEARNING;
+
+    while (true) {
+        learn(status);
+        code(status);
+        fix(status);
+        publish(status);
+        
+        if (haveTime(status)) {
+          checkTelegram();
+        }
+    }
+
+    return 0;
+}
+```
+
+---
+
+[![Stand With Palestine](https://img.shields.io/badge/Stand%20With%20Palestine-007A3D?style=for-the-badge&logo=liberapay&logoColor=white)](https://www.islamic-relief.org.uk/giving/appeals/palestine/)
+![Iran](https://img.shields.io/badge/Iran-🇮🇷-239F40?style=for-the-badge)
