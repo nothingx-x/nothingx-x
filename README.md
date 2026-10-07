@@ -5,6 +5,7 @@
   <div align="center">
     <a href="https://t.me/Dont_Be_Nothing"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="https://github.com/nothingx-x"><img src="https://img.shields.io/badge/GitHub-181717?style=&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://nothingx-x.brewal.workers.dev/"><img src="https://img.shields.io/badge/Website-eba715?style=&logo=&logoColor=white" alt="Website" /></a>
   </div>
 </p>
 
@@ -53,7 +54,7 @@ Mostly **game-related stuff**, but I'll jump into a new field if it sounds inter
 </p>
 
 ## Personal Website
-In progress..
+<a href="https://nothingx-x.brewal.workers.dev/"><img src="https://img.shields.io/badge/Website-eba715?style=for-the-badge&logo=&logoColor=white" alt="Website" /></a>
 
 ## Contact Me
 Feel free to call me in one of these socials:
