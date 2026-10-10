@@ -1,7 +1,7 @@
 <h1 align="center">In the name of Allah</h1>
 
 <p align="center">
-  <em>A noob guy who tries to learn new things — one project at a time.</em>
+  <em>A noob guy who tries to learn new things.</em>
   <div align="center">
     <a href="https://t.me/Dont_Be_Nothing"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="https://github.com/nothingx-x"><img src="https://img.shields.io/badge/GitHub-181717?style=&logo=github&logoColor=white" alt="GitHub" /></a>
