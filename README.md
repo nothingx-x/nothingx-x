@@ -69,7 +69,7 @@ Feel free to call me in one of these socials:
     </p>
 </div>
 
-## My Daily Life
+## My Life
 ```cpp
 #include <iostream>
 
